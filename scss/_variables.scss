@@ -1,0 +1,42 @@
+$container-max-widths: (xl:1170px,
+);
+
+$color-accent: #23b7a4;
+$dark: #1d2126;
+
+$font-regular: 400;
+$font-semibold: 600;
+$font-bold: 700;
+
+$font-family-Quattro:'Quattrocento Sans',
+sans-serif;
+$font-family-OpenSans:'Open Sans',
+sans-serif;
+
+$color-header-bg-dark: #1d2126;
+$color-link: #a4aead;
+$color-link--active: $color-accent;
+$color-link-bd--active: $color-accent;
+$color-link-bg--active: #21443f;
+$color-link-bd--hover: #5b6168;
+$font-size-link: 14px;
+$font-line-height-link: normal;
+$font-weight-link: $font-semibold;
+
+$navbar-dark-toggler-border-color: transparent;
+$navbar-dark-active-color: $color-accent;
+$navbar-dark-hover-color: $color-link;
+
+$font-size-title-section-md: 30px;
+$font-size-title-section-lg: 36px;
+$font-color-title-section: #292f36;
+$font-line-height-title-section: 1.17;
+$color-border-title-section: #e1e6ea;
+
+$font-size-title-item: 17px;
+$font-color-item: #292f36;
+$font-line-height-item-title: normal;
+
+$font-size-item-text: 16px;
+$font-color-item-text: #8d8f92;
+$font-line-height-item-text: 1.63;
